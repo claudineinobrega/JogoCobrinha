@@ -13,4 +13,4 @@
 
 ## Tela do projeto:
 
-![paginas_web](https://github.com/claudineinobrega/JogoCobrinha/img/game.png) 
+![paginas_web](https://github.com/claudineinobrega/JogoCobrinha/game.png) 
