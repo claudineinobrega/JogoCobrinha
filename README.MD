@@ -1,4 +1,4 @@
-# Jogo do Cobrinha
+# Jogo da Cobrinha
 
 ## Clone do Jogo da Cobrinha
 
